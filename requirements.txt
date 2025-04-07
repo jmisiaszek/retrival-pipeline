@@ -1,0 +1,4 @@
+attrs
+tiktoken
+accelerate
+sentence-transformers
