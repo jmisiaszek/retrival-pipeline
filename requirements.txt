@@ -2,3 +2,5 @@ attrs
 tiktoken
 accelerate
 sentence-transformers
+numpy
+scikit-learn
