@@ -55,7 +55,7 @@ def get_num_chunks(question: str,
 def eval_question(reference_coll: List[Dict[str, Any]], 
                   chunk_coll: List[Dict[str, Any]],
                   corpus: str):
-    
+    """ Calculate precision and recall for a single question. """
     size_retrived = 0
     for chunk in chunk_coll:
         size_retrived += len(chunk["chunk"])
