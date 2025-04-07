@@ -1,0 +1,31 @@
+Evaluation of FixedTokenChunker
+
+Params: chunk_size=400, chunk_num=10
+
+Mean precision: 0.0018051932349533778
+Std precision: 0.005289221104898678
+Mean recall: 0.1202822079877414
+Std recalls: 0.3274033320325772
+
+Params: chunk_size=400, chunk_num=5
+
+Mean precision: 0.009132474129943615
+Std precision: 0.018678100316375578
+Mean recall: 0.28664758283912994
+Std recalls: 0.4737632880451287
+
+
+
+Params: chunk_size=200, chunk_num=10
+
+Mean precision: 0.011973157208216388
+Std precision: 0.02122492200450722
+Mean recall: 0.4030443037628191
+Std recalls: 0.5633036074303283
+
+Params: chunk_size=200, chunk_num=5
+
+Mean precision: 0.021467239166554575
+Std precision: 0.034981500455698804
+Mean recall: 0.35135880395593744
+Std recalls: 0.4646206938649207
